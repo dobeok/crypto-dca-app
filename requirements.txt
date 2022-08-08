@@ -1,0 +1,5 @@
+millify==0.1.1
+pandas==1.4.2
+pandas_datareader==0.10.0
+plotly==5.9.0
+streamlit==1.11.1
