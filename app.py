@@ -124,7 +124,6 @@ st.plotly_chart(fig, use_container_width=True)
 # summary table
 st.dataframe(
     pd.DataFrame(all_summary).T.style.format("{:.2f}"),
-    use_container_width=True
     )
 
 
